@@ -1,0 +1,1 @@
+Om ni ska prova koden, glöm inte "npm install" för att installera 'prompt'
